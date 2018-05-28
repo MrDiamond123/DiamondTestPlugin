@@ -1,0 +1,11 @@
+name: DiamondTest
+version: 0.1BETA
+author: Diamond
+main: me.diamond.test.Main
+commands:
+  hello:
+    description: Tells Hello to you!
+    usage: /hello
+  tps:
+    description: Teleports you to the world spawn point!
+    usage: /tps
